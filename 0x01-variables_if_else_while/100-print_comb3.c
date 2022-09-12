@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 #include <unistd.h>
 /**
  * main - All possible combinations of 2 digits
