@@ -1,2 +1,2 @@
-# Coding this **_FUN_**
-## I just wan to code everyday :writing_hand:
+# Coding is **_FUN_** :rocket:
+## I just want to code everyday :writing_hand:
