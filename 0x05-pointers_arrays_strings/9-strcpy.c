@@ -4,8 +4,9 @@
  * *_strcpy - copies the sting pointed to by src
  * including the terminating null byte (\0)
  * to the bufferpointed to by dest
- * @dest: pointerr to the bufferr in which we copy the strring
+ * @dest: pointer to the buffer in which we copy the strring
  * @src: strring to be copied
+ *
  * Return: the pointerr to dest
  */
 
